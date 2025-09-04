@@ -10,7 +10,7 @@ A simple Android flashcard application for practicing general knowledge. This de
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://drive.google.com/file/d/1HLvd8sABVs9tSFZaVHRqe2aZfkZo8BL3/view" width=200><br>
+<img src="https://github.com/Sass00-Pl/AppFlashCard/blob/main/clideo_editor_ae184d8be39a401186e0bdb1c6a30710%20(1).gif?raw=true" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 

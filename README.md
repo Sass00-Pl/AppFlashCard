@@ -1,11 +1,7 @@
-## NAME_OF_YOUR_APP_HERE
-
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
-## Lab 1
-
 ### FLASHCARD APP
 A simple Android flashcard application for practicing general knowledge. This demo version displays a question and allows the user to reveal the answer.
+.
+=
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)

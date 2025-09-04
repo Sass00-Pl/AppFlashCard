@@ -1,7 +1,7 @@
 ### FLASHCARD APP
+
 A simple Android flashcard application for practicing general knowledge. This demo version displays a question and allows the user to reveal the answer.
-.
-=
+
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)

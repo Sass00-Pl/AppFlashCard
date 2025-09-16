@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
@@ -7,4 +7,26 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:id="@+id/questionTextField"
+        android:text="who is the 44th president of united States?" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="40sp"
+        android:layout_height="match_parent"
+        android:id="@+id/Flashcard_Answer"
+        android:text="Barak OBAMA" />
+
+
+    <ImageView
+        android:id="@+id/Cancel"
+        android:src="@drawable/iconmonstr_x_mark_circle_lined"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="100dp"
+        android:layout_width="100dp" />
+</RelativeLayout>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
@@ -26,5 +27,29 @@
         android:textSize="40sp"
         android:visibility="invisible"
         />
+
+
+    <EditText
+        android:id="@+id/editTextField"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="20dp"
+        android:hint="This in some hint text"
+        android:inputType="textMultiLine" />
+
+    <ImageView
+        android:id="@+id/Add"
+        android:src="@drawable/iconmonstr_plus_lined"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="100dp"
+        android:layout_width="100dp" />
+
+    <Button
+        android:id="@+id/mybuttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
 
 </RelativeLayout>

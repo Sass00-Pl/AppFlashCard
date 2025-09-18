@@ -16,7 +16,9 @@
         android:elevation="5dp"
         android:gravity="center"
         android:text="Who is the 44th President of the United States?"
+        android:visibility="visible"
         android:textSize="40sp" />
+
     <TextView
         android:id="@+id/Flashcard_Answer"
         android:layout_width="match_parent"
@@ -25,17 +27,9 @@
         android:text="BARACK Obama"
         android:textColor="@color/white"
         android:textSize="40sp"
-        android:visibility="invisible"
+        android:visibility="gone"
         />
 
-
-    <EditText
-        android:id="@+id/editTextField"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_margin="20dp"
-        android:hint="This in some hint text"
-        android:inputType="textMultiLine" />
 
     <ImageView
         android:id="@+id/Add"
@@ -45,11 +39,6 @@
         android:layout_height="100dp"
         android:layout_width="100dp" />
 
-    <Button
-        android:id="@+id/mybuttonSave"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Save" />
 
 
 </RelativeLayout>
